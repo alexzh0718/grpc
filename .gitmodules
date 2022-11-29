@@ -27,7 +27,7 @@
 [submodule "third_party/bloaty"]
 	path = third_party/bloaty
 	url = git@github.com:alexzh0718/bloaty.git
-	branch = main
+	branch = alex
 [submodule "third_party/abseil-cpp"]
 	path = third_party/abseil-cpp
 	url = git@github.com:abseil/abseil-cpp.git
